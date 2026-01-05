@@ -486,11 +486,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## � **Links**
 
-- **🌐 Website**: [https://rivic.io](https://rivic.io)
-- **📚 Documentation**: [https://docs.rivic.io](https://docs.rivic.io) 
-- **🎮 Interactive Demo**: [https://demo.rivic.io](https://demo.rivic.io)
-- **📰 Blog**: [https://rivic.io/blog](https://rivic.io/blog)
-- **💼 LinkedIn**: [Rivic Security](https://linkedin.com/company/rivic-security)
+- **🌐 Website**: [https://rivic.xyz](https://rivic.xyz)
+- **📚 Documentation**: [https://docs.rivic.xyz](https://docs.rivic.xyz) 
+- **🎮 Interactive Demo**: [https://demo.rivic.xyz](https://demo.rivic.xyz)
+- **📰 Blog**: [https://rivic.xyz/blog](https://rivic.xyz/blog)
+- **💼 LinkedIn**: [Rivic Security](https://linkedin.com/company/)
 - **🐙 GitHub Org**: [rivic-crypto](https://github.com/rivic-crypto)
 
 ---
