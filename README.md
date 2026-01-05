@@ -342,22 +342,22 @@ rivic-saas/
 - 💬 **GitHub Discussions** - [Ask questions and share ideas](https://github.com/rivic-q/cryptobom-saas/discussions)
 - 🐛 **Issues** - [Report bugs and request features](https://github.com/rivic-q/cryptobom-saas/issues)
 - 🔀 **Pull Requests** - [Contribute code and improvements](https://github.com/rivic-q/cryptobom-saas/pulls)
-- 📧 **Email**: [rivic.revanande@gmail.com](mailto:rivic.revanande@gmail.com)
+- 📧 **Email**: [rivic.revan.ande@gmail.com](mailto:rivic.revan.ande@gmail.com)
 
 ### **📞 Contact Information**
-- **General Inquiries**: [rivic.revanande@gmail.com](mailto:rivic.revanande@gmail.com)
-- **Business Development**: [rivic.revanande@gmail.com](mailto:rivic.revanande@gmail.com)
+- **General Inquiries**: [rivic.revan.ande@gmail.com](mailto:rivic.revan.ande@gmail.com)
+- **Business Development**: [rivic.revan.ande@gmail.com](mailto:rivic.revan.ande@gmail.com)
 - **Open Source Support**: [GitHub Issues](https://github.com/rivic-q/cryptobom-saas/issues)
-- **Security Reports**: [rivic.revanande@gmail.com](mailto:rivic.revanande@gmail.com) (Mark as "SECURITY")
-- **Partnership Inquiries**: [rivic.revanande@gmail.com](mailto:rivic.revanande@gmail.com)
+- **Security Reports**: [rivic.revan.ande@gmail.com](mailto:rivic.revan.ande@gmail.com) (Mark as "SECURITY")
+- **Partnership Inquiries**: [rivic.revan.ande@gmail.com](mailto:rivic.revan.ande@gmail.com)
 
 ### **🏢 Company Information**
-- **Company**: Rivic Security Solutions
-- **Founder & CEO**: Revanande
+- **Company**: Rivic Qunatum Safe Security protocol 
+- **Founder & CEO**: Revan Ande
 - **Stage**: Pre-Seed Funding Stage
 - **Focus**: Quantum-Safe Cryptography for EU Financial Services
-- **Location**: European Union
-- **Founded**: 2025
+- **Location**: Berlin 
+- **Founded**: 2025 & 2026 
 
 ### **💼 Business Status**
 - 🌱 **Funding Stage**: Currently seeking pre-seed investment
@@ -373,7 +373,7 @@ rivic-saas/
 ### **📱 Social Media**
 - 🐦 **Twitter**: [@CryptoBOM_SaaS](https://twitter.com/CryptoBOM_SaaS)
 - 💼 **LinkedIn**: [CryptoBOM SaaS](https://linkedin.com/company/cryptobom-saas)
-- � **Website**: [rivic.io](https://rivic.io)
+- � **Website**: [rivic.xyz](https://rivic.io)
 
 ## 🤝 **Code of Conduct**
 
@@ -486,11 +486,11 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## � **Links**
 
-- **🌐 Website**: [https://rivic.io](https://rivic.io)
-- **📚 Documentation**: [https://docs.rivic.io](https://docs.rivic.io) 
-- **🎮 Interactive Demo**: [https://demo.rivic.io](https://demo.rivic.io)
-- **📰 Blog**: [https://rivic.io/blog](https://rivic.io/blog)
-- **💼 LinkedIn**: [Rivic Security](https://linkedin.com/company/rivic-security)
+- **🌐 Website**: [https://rivic.xyz](https://rivic.xyz)
+- **📚 Documentation**: [https://docs.rivic.xyz](https://docs.rivic.xyz) 
+- **🎮 Interactive Demo**: [https://demo.rivic.xyz](https://demo.rivic.xyz)
+- **📰 Blog**: [https://rivic.xyz/blog](https://rivic.xyz/blog)
+- **💼 LinkedIn**: [Rivic Q](https://linkedin.com/company/rivic-security)
 - **🐙 GitHub Org**: [rivic-crypto](https://github.com/rivic-crypto)
 
 ---
